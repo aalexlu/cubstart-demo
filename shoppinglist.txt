@@ -3,3 +3,4 @@ bread
 granola
 greek yogurt
 milk
+dried mangoes
